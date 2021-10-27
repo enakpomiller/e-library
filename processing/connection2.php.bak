@@ -1,0 +1,12 @@
+<?php
+
+$host = "localhost";
+$user = "root";
+$db = "unical_lab";
+
+	$conn = new PDO('mysql:host=$host;dbname=$db, '$user', '');
+ 
+	if(!$conn){
+		die("Error: Failed to connect to database!");
+	}
+?>

@@ -1,0 +1,50 @@
+msg_error.msg_error{transition: all 0.5s ease 0.1;
+   
+    -webkit-box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+	box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+	-webkit-box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+	box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+    
+    -webkit-box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+
+	/**main for regular browsers**/
+	box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+    
+	
+	box-shadow: inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483; 
+	
+	border:1px solid #ce8483;
+	color:#a94442;
+	background-color:#f2dede;
+	padding:5px 15px 5px 15px;
+	font-size:13px;
+	letter-spacing:2px;
+	width:100%;
+	border-radius:3px;
+}
+
+
+.msg_success{transition: all 0.5s ease 0.1;
+   
+    -webkit-box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+	box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+	-webkit-box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+	box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+    
+    -webkit-box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+
+	/**main for regular browsers**/
+	box-shadow:inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483;
+    
+	
+	box-shadow: inset 0px 0px 12px 4px rgba(0, 0, 0, .075), 0 0 0px #ce8483; 
+	
+	border:1px solid #ce8483;
+	color:#a94442;
+	background-color:lightgreen;
+	padding:5px 15px 5px 15px;
+	font-size:13px;
+	letter-spacing:2px;
+	width:100%;
+	border-radius:3px;
+}
